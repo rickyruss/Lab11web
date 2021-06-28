@@ -34,7 +34,7 @@
 ![12a](https://user-images.githubusercontent.com/56240498/123628014-dd74f880-d83c-11eb-8554-dd41649b4a6d.png)
 ## 2. Buat file baru pada direktori app/models dengan nama pada berikut.
 ![12b](https://user-images.githubusercontent.com/56240498/123628023-df3ebc00-d83c-11eb-9b7e-c71704f686fa.png)
-###3. Lalu membuat controller baru dengan nama Artikel.php
+## 3. Lalu membuat controller baru dengan nama Artikel.php
 ![12c](https://user-images.githubusercontent.com/56240498/123628027-dfd75280-d83c-11eb-9263-af8c25d3ae9d.png)
 ## 4. Lalu buat lagi direktori baru dengan nama artikel pada direktori app/Views, pada file yang baru dengan nama index.php
 ![12d](https://user-images.githubusercontent.com/56240498/123628033-e06fe900-d83c-11eb-90e4-36bd9b53f9d1.png)
@@ -81,8 +81,9 @@
 ![5](https://user-images.githubusercontent.com/56240498/123637351-1d8da880-d848-11eb-9b60-da90a2adeca9.png)
 ![6](https://user-images.githubusercontent.com/56240498/123637353-1ebed580-d848-11eb-8eb0-aca81cf42c98.png)
 * Hapus artikel
-![8](https://user-images.githubusercontent.com/56240498/123636529-2e89ea00-d847-11eb-8445-81e58cec9fa5.png)
 ![7](https://user-images.githubusercontent.com/56240498/123636532-2e89ea00-d847-11eb-8895-6ec9e8eb07dd.png)
+![8](https://user-images.githubusercontent.com/56240498/123636529-2e89ea00-d847-11eb-8445-81e58cec9fa5.png)
+
 
 
 
