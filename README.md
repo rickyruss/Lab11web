@@ -86,5 +86,28 @@
 
 
 
-
 # Praktikum 13 Framework Codeigniter: Lanjutan tugas
+## 1. Menyiapkan table user pada mysql server
+![13a](https://user-images.githubusercontent.com/56240498/123638205-1c10b000-d849-11eb-90c9-ae92ffbab296.png)
+## 2. Membuat file user model
+![13b](https://user-images.githubusercontent.com/56240498/123638297-38145180-d849-11eb-8279-9f37a4b3bb89.png)
+## 3. Membuat login pada direktori views
+![13c](https://user-images.githubusercontent.com/56240498/123638483-6e51d100-d849-11eb-9cdb-a6433aae37ae.png)
+## 4. menjalankan php spark make seeder
+![13d](https://user-images.githubusercontent.com/56240498/123638604-8f1a2680-d849-11eb-949c-3f367be98506.png)
+## 5. Jalankan kodingan tersebut
+![13e](https://user-images.githubusercontent.com/56240498/123639066-094aab00-d84a-11eb-83cd-7dc16600a096.png)
+## Ini hasil halaman login nya
+![13f](https://user-images.githubusercontent.com/56240498/123639114-15366d00-d84a-11eb-8d07-4a14e96e0bd9.png)
+## 6. Menambah auth filternya
+![13g](https://user-images.githubusercontent.com/56240498/123639429-5fb7e980-d84a-11eb-9954-081d1b34d81a.png)
+![13h](https://user-images.githubusercontent.com/56240498/123639435-6181ad00-d84a-11eb-9856-b1fc6e4c6b67.png)
+![13i](https://user-images.githubusercontent.com/56240498/123639440-621a4380-d84a-11eb-8aa4-bcd7611a8c2a.png)
+## 7. Menambah method logout
+![13j](https://user-images.githubusercontent.com/56240498/123639618-93930f00-d84a-11eb-813f-aff6aca886b9.png)
+
+
+
+
+
+
