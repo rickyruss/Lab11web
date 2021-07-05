@@ -106,7 +106,26 @@
 ## 7. Menambah method logout
 ![13j](https://user-images.githubusercontent.com/56240498/123639618-93930f00-d84a-11eb-813f-aff6aca886b9.png)
 
-
+# Praktikum 14 Framework Codeigniter: Lanjutan tugas
+## 1. Pembuatan Pagination
+- Ini digunakan untuk membatasi tampilan data pada sebuah halaman menjadi beberapa halaman tergantung banyaknya data yang akan ditampilkan
+![14a](https://user-images.githubusercontent.com/56240498/124432973-68ee0c80-dd9c-11eb-84f1-881f3779f201.png)
+## 2. Membuat link agar terhubung dengan admin tulis sbg berikut
+![14b](https://user-images.githubusercontent.com/56240498/124432981-6ab7d000-dd9c-11eb-8590-238b092e38f0.png)
+## 3. Hasilnya akan menjadi 2 slide sebagai berikut.
+![14c](https://user-images.githubusercontent.com/56240498/124432985-6b506680-dd9c-11eb-9ea5-ed18e4b7f7da.png)
+## 4. Membuat pencarian
+- buka kembali Controller Artikel, pada method admin_index ubah syntaxnya
+- Kemudian buka kembali file views/artikel/admin_index.php dan tambahkan form pencarian sebelum deklarasi tabel
+- Lalu ubah link pager menjadi `<?= $pager->only(['q'])->links(); ?>`
+- Selanjutnya kita kembali membuka halaman admin artikel dan masukkan kata tertentu pada form pencarian.
+![14d](https://user-images.githubusercontent.com/56240498/124432992-6c819380-dd9c-11eb-984f-dd48f7130c20.png)
+## 5. Mengupload Gambar
+- Menambahkan fungsi unggah gambar pada tambah artikel. Buka kembali Controller Artikel, sesuaikan kode pada method add
+- Kemudian pada file `views/artikel/form_add.php` tambahkan field input file serta sesuaikan tag form dengan menambahkan `ecrypt type <form action="" method="post"` `enctype="multipart/form-data">` dan tambahkan field input file:
+![14e](https://user-images.githubusercontent.com/56240498/124432996-6db2c080-dd9c-11eb-91e0-0b9f51fb9058.png)
+# Berikut Hasil Gambarnya
+![14f](https://user-images.githubusercontent.com/56240498/124433001-6e4b5700-dd9c-11eb-9dfb-ec774c2df313.png)
 
 
 
